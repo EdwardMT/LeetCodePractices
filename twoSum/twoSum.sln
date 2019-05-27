@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "twoSum", "twoSum\twoSum.vcxproj", "{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Debug|x64.ActiveCfg = Debug|x64
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Debug|x64.Build.0 = Debug|x64
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Debug|x86.ActiveCfg = Debug|Win32
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Debug|x86.Build.0 = Debug|Win32
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Release|x64.ActiveCfg = Release|x64
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Release|x64.Build.0 = Release|x64
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Release|x86.ActiveCfg = Release|Win32
+		{F72DD465-3B55-4DBB-BA09-8D7ED7C5D928}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4603ABF6-615E-483E-9449-C1DE42E0A9C0}
+	EndGlobalSection
+EndGlobal
